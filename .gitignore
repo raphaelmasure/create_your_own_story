@@ -1,0 +1,35 @@
+raw_data/
+processed_data/
+temp/
+.env
+.env.yaml
+.envrc
+notebooks/~
+notebooks/transformers
+stories_generator/ml_logic/tokenizer
+stories_generator/ml_logic/models
+stories_generator/ml_logic/logs
+
+# OS generated files #
+######################
+.DS_Store
+__MACOSX
+# Jupiter Notebook #
+.pytest_cache
+__pycache__
+*checkpoint.ipynb
+*.ipynb_checkpoints
+
+# inteliJ #
+.idea
+*.gz
+*PKG-INFO
+*.egg-info
+*.csv
+*.zip
+mlruns
+*.sqlite
+# IDE #
+*.vscode
+# Challengify - test challengification files
+*_challengify*
